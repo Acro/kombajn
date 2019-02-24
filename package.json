@@ -1,0 +1,20 @@
+{
+    "name": "kombajn",
+    "version": "1.0.0",
+    "description": "Combine",
+    "main": "lib/combine.js",
+    "scripts": {
+      "test": "node test/combine.js"
+    },
+    "keywords": [
+      "combine",
+      "combination"
+    ],
+    "author": "Ondrej Machek <acrocz@gmail.com>",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/Acro/kombajn"
+    }
+  }
+  
